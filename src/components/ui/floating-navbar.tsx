@@ -71,7 +71,7 @@ export const FloatingNav = ({
           </a>
         ))}
         <button className="border text-sm font-medium relative border-white/20 text-white px-4 py-2 rounded-full hover:bg-amber-500 hover:text-zinc-950 transition-colors">
-          <span>Order Now</span>
+          <span>Orçamento</span>
           <span className="absolute inset-x-0 w-1/2 mx-auto -bottom-px bg-gradient-to-r from-transparent via-amber-500 to-transparent  h-px" />
         </button>
       </motion.div>
